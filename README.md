@@ -1,2 +1,2 @@
 # Cisl.Qclm.Public
-Public entry point for Cisl.Qclm project.
+This is the home to public source code of `Cisl.Qclm` project, the control software for TITLE.
