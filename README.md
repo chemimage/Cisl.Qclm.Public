@@ -15,4 +15,7 @@ If all the hardware and software dependencies are resolved, you should be able t
 https://user-images.githubusercontent.com/2089799/233740609-65b7796f-6a91-49a3-8823-4bbd7ead190e.mp4
 
 ## Instructions for use
-The operation is straightforward enough with `Start`/`Stop` acquisition on the right. 
+Please refer to the demo. 
+
+## Disclaimer
+The acquisition software for the microscope, post-processing, and analysis code is available from the corresponding author upon reasonable request. The requestor is responsible for procuring all necessary licenses for 3rd party libraries used.
