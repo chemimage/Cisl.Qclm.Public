@@ -7,7 +7,7 @@ Please refer to the publication for hardware requirements.
 
 ## Installation
 We provide compiled binaries on the [Releases](https://github.com/chemimage/Cisl.Qclm.Public/releases) page.
-Latest version is [here]().
+Latest version is [here](https://github.com/chemimage/Cisl.Qclm.Public/releases/tag/1.0.0).
 
 ## Demo
 If all the hardware and software dependencies are resolved, you should be able to have something similar to this recording
