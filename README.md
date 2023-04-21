@@ -11,6 +11,7 @@ Latest version is [here]().
 
 ## Demo
 If all the hardware and software dependencies are resolved, you should be able to have something similar to this recording
+
 https://user-images.githubusercontent.com/2089799/233740609-65b7796f-6a91-49a3-8823-4bbd7ead190e.mp4
 
 ## Instructions for use
