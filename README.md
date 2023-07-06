@@ -6,7 +6,7 @@ spectroscopic laser scanning confocal microscopy for whole-slide chemical imagin
 Please refer to the publication for hardware requirements.
 
 ## Installation
-We provide compiled binaries on the [Releases](https://github.com/chemimage/Cisl.Qclm.Public/releases) page.
+We provide compiled binaries and MATLAB scripts on the [Releases](https://github.com/chemimage/Cisl.Qclm.Public/releases) page.
 Latest version is [here](https://github.com/chemimage/Cisl.Qclm.Public/releases/tag/1.0.0).
 
 ## Demo
