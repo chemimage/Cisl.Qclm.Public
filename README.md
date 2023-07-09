@@ -29,6 +29,7 @@ Libraries listed below requires either purchased license or being directly suppl
 ## Installation
 We provide compiled binaries and MATLAB scripts on the [Releases](https://github.com/chemimage/Cisl.Qclm.Public/releases) page.
 Latest version is [here](https://github.com/chemimage/Cisl.Qclm.Public/releases/tag/1.0.0).
+Python code is [here](https://github.com/kiakh93/PT2_classification).
 
 ## Demo
 If all the hardware and software dependencies are resolved, you should be able to have something similar to this recording
