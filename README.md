@@ -39,4 +39,4 @@ https://user-images.githubusercontent.com/2089799/233740609-65b7796f-6a91-49a3-8
 Please refer to the demo. 
 
 ## Disclaimer
-The acquisition software for the microscope, post-processing, and analysis code is available from the corresponding author upon reasonable request. The requestor is responsible for procuring all necessary licenses for 3rd party libraries used.
+The acquisition software for the microscope, post-processing, and analysis code is available from the corresponding author upon request. The requestor is responsible for procuring all necessary licenses for 3rd party libraries used.
