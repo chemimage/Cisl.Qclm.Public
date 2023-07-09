@@ -2,6 +2,8 @@
 This is the home to public source code of `Cisl.Qclm` project, the control software for _Infrared
 spectroscopic laser scanning confocal microscopy for whole-slide chemical imaging_.
 
+If you are looking for classification-related source codes, please refer to [our other repo](https://github.com/chemimage/PT2_classification). 
+
 ## System requirements
 Please refer to the publication for hardware requirements.
 
